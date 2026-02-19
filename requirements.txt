@@ -2,8 +2,8 @@
 flask==3.0.0
 flask-cors==4.0.0
 
-# TensorFlow and Keras
-tensorflow==2.15.0
+# TensorFlow and Keras (CPU-only for Render)
+tensorflow-cpu==2.16.1
 
 # Data processing
 numpy==1.26.2
